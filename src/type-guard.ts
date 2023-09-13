@@ -26,4 +26,4 @@ function showName(obj: PersonOrAnimal): void {
   }
 }
 
-showName(new Student('Jonh'));
+// showName(new Student('Jonh'));
